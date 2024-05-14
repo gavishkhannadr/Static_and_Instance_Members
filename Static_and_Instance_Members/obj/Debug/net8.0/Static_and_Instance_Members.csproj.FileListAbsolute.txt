@@ -1,0 +1,14 @@
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\bin\Debug\net8.0\Static_and_Instance_Members.exe
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\bin\Debug\net8.0\Static_and_Instance_Members.deps.json
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\bin\Debug\net8.0\Static_and_Instance_Members.runtimeconfig.json
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\bin\Debug\net8.0\Static_and_Instance_Members.dll
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\bin\Debug\net8.0\Static_and_Instance_Members.pdb
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\Static_and_Instance_Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\Static_and_Instance_Members.AssemblyInfoInputs.cache
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\Static_and_Instance_Members.AssemblyInfo.cs
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\Static_and_Instance_Members.csproj.CoreCompileInputs.cache
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\Static_and_Instance_Members.dll
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\refint\Static_and_Instance_Members.dll
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\Static_and_Instance_Members.pdb
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\Static_and_Instance_Members.genruntimeconfig.cache
+C:\Users\gavis\source\repos\Static_and_Instance_Members\Static_and_Instance_Members\obj\Debug\net8.0\ref\Static_and_Instance_Members.dll
